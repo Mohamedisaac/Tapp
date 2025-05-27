@@ -1,0 +1,5 @@
+{
+  "name": "Terminology Dictionary",
+  "description": "A searchable dictionary for Physics, Math, and Biology terms. Filter by subject and search across terms and definitions.",
+  "requestFramePermissions": []
+}
