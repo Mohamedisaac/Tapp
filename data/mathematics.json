@@ -1,0 +1,13 @@
+
+{
+  "Integer": "A whole number; a number that is not a fraction. This includes positive numbers, negative numbers, and zero.",
+  "Prime Number": "A natural number greater than 1 that has no positive divisors other than 1 and itself. Examples: 2, 3, 5, 7, 11.",
+  "Pythagorean Theorem": "In a right-angled triangle, the square of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides (a² + b² = c²).",
+  "Calculus": "A branch of mathematics focused on limits, functions, derivatives, integrals, and infinite series. It has widespread applications in science, engineering, and economics.",
+  "Algebra": "A branch of mathematics that substitutes letters for numbers. Algebraic equations express relationships between these variables.",
+  "Probability": "The measure of the likelihood that an event will occur. It is quantified as a number between 0 and 1, where 0 indicates impossibility and 1 indicates certainty.",
+  "Geometry": "The branch of mathematics concerned with the properties and relations of points, lines, surfaces, solids, and higher dimensional analogues.",
+  "Fibonacci Sequence": "A sequence in which each number is the sum of the two preceding ones, usually starting with 0 and 1. (0, 1, 1, 2, 3, 5, 8, ...)",
+  "Matrix": "A rectangular array of numbers, symbols, or expressions, arranged in rows and columns. Matrices are used to solve systems of linear equations and in many other applications.",
+  "Standard Deviation": "A measure of the amount of variation or dispersion of a set of values. A low standard deviation indicates that the values tend to be close to the mean of the set, while a high standard deviation indicates that the values are spread out over a wider range."
+}

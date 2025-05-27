@@ -1,0 +1,13 @@
+
+{
+  "Gravity": "The force that attracts a body towards the center of the earth, or towards any other physical body having mass. It's what keeps you on the ground!",
+  "Velocity": "The rate at which an object changes its position. It is a vector quantity, meaning it has both magnitude (speed) and direction.",
+  "Energy": "The capacity for doing work. It may exist in potential, kinetic, thermal, electrical, chemical, nuclear, or other various forms.",
+  "Newton's First Law": "An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force.",
+  "Quantum Mechanics": "The branch of mechanics that deals with the mathematical description of the motion and interaction of subatomic particles, incorporating the concepts of quantization of energy, wave-particle duality, the uncertainty principle, and the correspondence principle.",
+  "Friction": "The resistance that one surface or object encounters when moving over another. It can be useful, like for car tires on a road, or problematic, like in engine parts.",
+  "Thermodynamics": "The branch of physical science that deals with the relations between heat and other forms of energy (such as mechanical, electrical, or chemical energy), and, by extension, of the relationships between all forms of energy.",
+  "Wavelength": "The distance between corresponding points of two consecutive waves. For example, the distance from crest to crest or trough to trough.",
+  "Doppler Effect": "An increase (or decrease) in the frequency of sound, light, or other waves as the source and observer move towards (or away from) each other. The classic example is the change in pitch of a siren as it passes you.",
+  "Magnetism": "A physical phenomenon produced by the motion of electric charge, resulting in attractive and repulsive forces between objects."
+}
